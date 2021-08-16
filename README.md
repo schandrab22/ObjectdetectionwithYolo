@@ -1,5 +1,5 @@
 
-![](Obj-Det1.gif)
+![](Obj-Dect1.gif)
 ![](Obj-Dect2.gif)
 
 
